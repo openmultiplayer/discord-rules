@@ -13,7 +13,5 @@ Staff reserve the right to kick or ban members if necessary to maintain a respec
 - **No Advertising** - Do not advertise your server or products in DMs or any channel unless it’s in <#1051231762208010250> or <#1044173132514218065>.
 - **Malicious Behavior** - Malicious actions, including doxxing, trolling, or trying to harm other players or the community, will result in an immediate ban.
 - **No Punishment Evasion** - Users must not avoid punishments. This includes ban evasion, rejoining the server to reset roles, or circumventing disciplinary actions in any way.
-- **Sharing Code** - Don’t post screenshots when asking for help with code. Use triple backticks (\`\`\`) around your code so it's easy for everyone to read and help out: \`\`\`// Your code here \`\`\`
-
 ## Propose A Change
 To propose a change to this message submit a pull request here: <https://github.com/openmultiplayer/discord-rules>
