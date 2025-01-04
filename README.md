@@ -10,7 +10,7 @@ Staff reserve the right to kick or ban members if necessary to maintain a respec
 - **No Spamming or Offensive Language** - Spamming, excessive messaging, and offensive language disrupt the community. Keep it clean and respectful.
 - **No Hacks or Cheats** - Discussion of game hacks is forbidden, except for prevention or reporting exploits.
 - **Selling and Trading** - This is not a marketplace. We're not responsible for scams or trades. Keep these discussions private.
-- **No Advertising** - Do not advertise servers, products or Discord servers in DMs or any channel unless it’s in <#1051231762208010250> or <#1044173132514218065>.
+- **No Advertising** - Do not advertise your or other servers, products and Discord servers in DMs or any channel unless it’s in <#1051231762208010250> or <#1044173132514218065>.
 - **Malicious Behavior** - Malicious actions, including doxxing, trolling, or trying to harm other players or the community, will result in an immediate ban.
 - **No Punishment Evasion** - Users must not avoid punishments. This includes ban evasion, rejoining the server to reset roles, or circumventing disciplinary actions in any way.
 ## Propose A Change
